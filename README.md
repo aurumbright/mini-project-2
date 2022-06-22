@@ -33,21 +33,8 @@ The completed application should meet the following criteria:
 
 * Must incorporate a bit of animation using the [CSS transition property](https://developer.mozilla.org/en-US/docs/Web/CSS/transition).
 
-* You and your group can decide which CSS styles and colors you will use to design the application, but the app needs to be a responsive. Use the following images to gain an understanding of how the app should look at different screen sizes, from a layout perspective:
-
   * At size 992px and above, the application displays three CSS code snippets per row.
 
   * At size 768px and above, the application displays two CSS code snippets per row.
 
   * On mobile devices, anything under 768px, the application displays one CSS code snippet per row.
-
-## 💡 Hints
-
-* The HTML `<pre>` element is very literal about spaces and indentation. To gain a better understanding of how to work with it, check out this article on [considerations for styling the pre tag](https://css-tricks.com/considerations-styling-pre-tag/).
-
-## 🏆 Bonus
-
-* Set this project up in your own GitHub repositories so that you can deploy and use it for future reference!
-
----
-© 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.

@@ -51,12 +51,11 @@ pre {
     font-size: 20px;
 }
 
-.code-card .card-header {
-    border-radius: 8px; 
+.code-card {
     transition: all 0.5s ease-in-out;
 }
 
-.code-card:hover, code-card:hover .card-header {
+.code-card:hover {
     box-shadow: inset 0px 0px 8px rgba(232, 102,236, 1), 0 0 15px rgba(232, 102, 236, 1);
 }
 
